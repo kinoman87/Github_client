@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--- ЗАГОЛОВОК КАРТОЧКИ -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="match_parent"
+android:orientation="vertical" >
+<!--- С помощью ImageView  делаем нужный нам цвет -->
+<ImageView
+    android:layout_width="fill_parent"
+    android:layout_height="30dp"
+    android:id="@+id/imageView1"
+    android:background="@drawable/header" />
+<!--- Сам текст заголовка -->
+<TextView
+    android:id="@+id/card_header_inner_simple_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="13dp"
+    android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+</RelativeLayout>

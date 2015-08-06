@@ -1,0 +1,6 @@
+<!-- Описываем цвет и закругленную форму заголовка карточки -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#73d99c"/>
+    <corners android:radius="10dip"/>
+</shape>

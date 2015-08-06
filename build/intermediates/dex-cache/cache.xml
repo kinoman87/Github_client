@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gena\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\library-2.4.0-4824bbfa96f5c30a7e24d03e27bb98f21898b229.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53c7b3252488ffcd664c6889d8d536a09ae3ad80">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-55b5bb5a755f57c28c36b06e65ca9720cd54e699.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.afollestad\material-dialogs\0.7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a7ded9204cfdabe3970e064cf3a807c3727e5226">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-0b5bde15afc5dea98ae924f8f97c1975d51d6d5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1dae9057d2d606fabff98c76c802213dcf331e1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\libs\org.eclipse.egit.github.core.shaded-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2917baf05e79df0e946932ed37a6c626a7aacb2e">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\org.eclipse.egit.github.core.shaded-1.1.2-535d61b79acd902c1dc03419cc04ec2629c25b7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-6d38ce55f3408ee3a633d541177c1a624cf2f2c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\lib-core-3.1.0-d6dc99663e3aee4dc333b29d13bbf1f1e1e44028.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-23ab0e8026b94d03ce2dfc02eb1798ffc79b683b.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-aef2210a8853ed0eddeabc7cd00eff538afa4bdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-4429249a187bab48cd1f2c515725c23e0b510f8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15d2052aed6aa62f341d22e1ba6177697c7dc552">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-cebb46f1ac04e3bec8678026234712d2f7b49d13.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a055a4323187e6f6a5e63f01b5a59bff71869a5">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-dd28f690b6c8d88c9a421cf10a97b3e03ecbe5ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-ffa08b4f441de9acece62d04a9d38ff1c46776bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-961433b62f3ccbbd5e7798d5cb3dacdbd836c21e.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-b6a291e8d85c479d8f00e5d9e21afb7b8ac02e5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-f8660fa2b58f83f5ab43db811f05781cb3a42a0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-72f52205d2a958c5269bf6c5c7b9ee925c5d04ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-9e32a2d23fedad94bba547fb5c34d557c2d928b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-d46301946041dea3dd440923569787a69a9a5278.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ccd61dc70f7b1dc968c73626f90a61eb542905">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\classes-d22564c24813c0da936937ef63158584be516119.jar" />
+    </item>
+    <item
+        jar="C:\Users\gena\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\63737e512fcd9e0ebe9bcd0bb375c2dded74116f\lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Users\gena\Documents\GitHub\Cardsui\app\build\intermediates\pre-dexed\debug\lib-manipulation-3.1.0-cb307d9b8a33297dbfca7972af386e8720d045ff.jar" />
+    </item>
+
+</items>

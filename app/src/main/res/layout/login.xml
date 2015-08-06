@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_height="match_parent">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/Edt_txt_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        app:met_baseColor="#000000"
+        android:hint="Введите логин"
+        app:met_primaryColor="#64c9d9"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        app:met_floatingLabel="normal" />
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/Edt_txt_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:met_baseColor="#000000"
+        android:hint="Введите пароль"
+        app:met_primaryColor="#64c9d9"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        app:met_floatingLabel="normal" />
+    <com.gc.materialdesign.views.ButtonRectangle
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:onClick="Log_in_click"
+        android:background="#1E88E5"
+        android:text="Log in" />
+</LinearLayout>

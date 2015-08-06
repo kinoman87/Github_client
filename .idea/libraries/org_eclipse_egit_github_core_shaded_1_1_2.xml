@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.egit.github.core.shaded-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/org.eclipse.egit.github.core.shaded-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
